@@ -13,3 +13,9 @@
 [submodule "icp-tiddlywiki"]
 	path = icp-tiddlywiki
 	url = https://github.com/lucademenego99/icp-tiddlywiki
+[submodule "teavm"]
+	path = teavm
+	url = https://github.com/lucademenego99/teavm
+[submodule "teavm-javac"]
+	path = teavm-javac
+	url = https://github.com/lucademenego99/teavm-javac
