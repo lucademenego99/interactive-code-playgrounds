@@ -1,0 +1,15 @@
+[submodule "icp-bundle"]
+	path = icp-bundle
+	url = https://github.com/lucademenego99/icp-bundle
+[submodule "icp-slides"]
+	path = icp-slides
+	url = https://github.com/lucademenego99/icp-slides
+[submodule "icp-create-server"]
+	path = icp-create-server
+	url = https://github.com/lucademenego99/icp-create-server
+[submodule "icp-editor"]
+	path = icp-editor
+	url = https://github.com/lucademenego99/icp-editor
+[submodule "icp-tiddlywiki"]
+	path = icp-tiddlywiki
+	url = https://github.com/lucademenego99/icp-tiddlywiki
